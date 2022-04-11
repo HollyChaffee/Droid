@@ -34,6 +34,7 @@ public class Droid {
     zimri.performTask("dusting");
     zimri.performTask("playing music");
     zimri.performTask("answering the door");
+    zimri.performTask("put dishes in sink");
     System.out.println(zimri.energyReport());
     System.out.println(zimri.energyTransfer());
     System.out.println("Success! Battery is now fully charged.");
